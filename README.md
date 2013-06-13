@@ -1,8 +1,8 @@
 blobEngine
 ==========
 
-*A Processing app for customized blob detection on a series of images. 
-*Matthew Epler, 2013
+*A Processing app for customized blob detection on a series of images.*
+*Matthew Epler, 2013*
 
 Dependencies
 ------------

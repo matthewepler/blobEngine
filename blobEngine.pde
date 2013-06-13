@@ -1,16 +1,12 @@
 /*
-
+ blobEngine
  A gui based system for detecting blobs in a series of still images using OpenCV 1.1 library.
  
  Matthew Epler
  2013
  
- *NOTE: to be updated upon release of OpenCVPro by Greg Borenstein: https://github.com/atduskgreg/OpenCVPro
- **NTS: Processing folder should be set to old folder, located in Dropbox dir.
- 
- // TO ADD
- -- button to launch OS directory window
- -- save as PNG to preserve alpha masking
+ NOTE: to be updated upon release of OpenCVPro by Greg Borenstein: https://github.com/atduskgreg/OpenCVPro
+
  */
 
 import hypermedia.video.*;
