@@ -7,7 +7,7 @@ blobEngine
 Dependencies
 ------------
 Only works with Processing 1.5 for now.
-ControlP5 v1.5.2
+add ControlP5 v1.5.2
 OpenCV 1.1 (the library provided by Processing 1.5 for OpenCV functions)
 
 How To
